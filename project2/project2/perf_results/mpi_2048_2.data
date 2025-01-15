@@ -1,0 +1,15 @@
+# started on Tue Oct 22 07:20:03 2024
+
+
+ Performance counter stats for './build/src/mpi 16 ./matrices/matrix7.txt ./matrices/matrix8.txt ./result.txt':
+
+     7,107,799,274      cpu-cycles:u                                                
+         3,020,291      cache-misses:u                                              
+            22,557      page-faults:u                                               
+
+       1.885080107 seconds time elapsed
+
+       2.692904000 seconds user
+       0.156052000 seconds sys
+
+
